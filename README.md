@@ -34,6 +34,6 @@ front
 back \
 ]
 
-and turns them into anki cards.
+and turns it into a csv which can be imported into anki.
 
-I wrote this program because I was playing around with lisp and I was tired of using the anki editor to make cards when I could just use vim.
+I wrote this program because I was playing around with lisp and I was tired of using the anki editor to make cards when I could just use vim. 
