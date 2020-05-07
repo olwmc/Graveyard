@@ -1,4 +1,4 @@
-// Build with　gcc -o snake main.c -lSDL2
+// Build with　gcc -o snake snake.c -lSDL2
 
 #include <stdlib.h>
 #include <SDL2/SDL.h>
