@@ -37,3 +37,6 @@ back \
 and turns it into a csv which can be imported into anki.
 
 I wrote this program because I was playing around with lisp and I was tired of using the anki editor to make cards when I could just use vim. 
+
+### Cookie editor bookmarklet
+One of the first programs I ever wrote. My high school disabled our cookie editors that we were using to get past the web blocker, so I wrote my own. Awfully written but I think it's nice to have. Weird variable names so that it is *unlikely* to collide with any webpage you run it on.
