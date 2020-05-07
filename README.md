@@ -13,3 +13,8 @@ Info for interpreter from https://skilldrick.github.io/easyforth/
 It's pretty terrible, incomplete, and error ridden.
 
 BUT I think it was an alright first venture into parsing.
+
+## Brainfuck evalulator in JavaScript
+Super-tiny-fits-in-a-tweet brainfuck interpreter.
+
+Usage: g("+\[-\[<<\[+\[--->\]-\[<<<\]\]\]>>>-\]>-.---.>..>.<<<<-.<+.>>>>>.>.<<.<-.")
