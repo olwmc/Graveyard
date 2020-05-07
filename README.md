@@ -19,7 +19,7 @@ Super-tiny-fits-in-a-tweet brainfuck interpreter.
 
 Usage: g("+\[-\[<<\[+\[--->\]-\[<<<\]\]\]>>>-\]>-.---.>..>.<<<<-.<+.>>>>>.>.<<.<-.")
 
-### Ankithing..
+### Ankithing
 Really weird program I wrote in broken lisp. It takes files in the format
 
 \[ \
