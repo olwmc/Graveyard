@@ -18,3 +18,25 @@ BUT I think it was an alright first venture into parsing.
 Super-tiny-fits-in-a-tweet brainfuck interpreter.
 
 Usage: g("+\[-\[<<\[+\[--->\]-\[<<<\]\]\]>>>-\]>-.---.>..>.<<<<-.<+.>>>>>.>.<<.<-.")
+
+### Ankithing..
+Really weird program I wrote in broken lisp. It takes files in the format
+[
+
+front
+
+back
+
+]
+
+[
+
+front
+
+back
+
+]
+
+and turns them into anki cards.
+
+I wrote this program because I was playing around with lisp and I was tired of using the anki editor to make cards when I could just use vim.
