@@ -102,8 +102,6 @@ public class Main {
                 case "variable":
                     environment.add(tokens[i+1] + "#" + 0);
                     i++;
-                    //continue here
-                    //https://skilldrick.github.io/easyforth/#variables-and-constants
                 break;
 
                 case "do":
