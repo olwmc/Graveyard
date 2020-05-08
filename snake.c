@@ -43,7 +43,7 @@ int main(int argc, char **argv) {
 	
 	bool isEaten = true;
 
-	bool darkMode = true;
+	bool darkMode;
 	if(argc >= 2){
 		if(strcmp(argv[1], "-d") == 0) {
 			darkMode = true;
