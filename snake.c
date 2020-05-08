@@ -43,7 +43,7 @@ int main(int argc, char **argv) {
 	
 	bool isEaten = true;
 
-	bool darkMode; 
+	bool darkMode = true;
 	if(argc >= 2){
 		if(strcmp(argv[1], "-d") == 0) {
 			darkMode = true;
@@ -100,6 +100,16 @@ int main(int argc, char **argv) {
 			case SDLK_DOWN:
 				nextX = 0;
 				nextY = 30;
+			break;
+
+			case SDLK_d:
+				if(darkMode)
+					darkMode = false;
+				else	
+					darkMode = true;
+
+				// Prevents flickering
+				e.key.keysym.sym = 0;
 			break;
 		}
 
