@@ -14,7 +14,6 @@ Chip8::Chip8() {}
 Chip8::~Chip8() {}
 
 uint8_t reverseBits(uint8_t num);
-void drawPixel(SDL_Renderer *r, unsigned short x, unsigned short y);
 
 void Chip8::startUp() {    
     for(int i = 0; i < 4096; i++)       { memory[i] = 0; }
