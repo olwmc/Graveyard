@@ -200,24 +200,16 @@ int main(int argc, char **argv) {
 void drawNode(SDL_Renderer *r, int x, int y, bool isFruit, bool darkMode) {
 	if(isFruit) {
 		if(darkMode) {
-			SDL_SetRenderDrawColor(r,
-					0, 255, 255,
-					255);
+			SDL_SetRenderDrawColor(r, 0, 255, 255, 255);
 		} else {
-			SDL_SetRenderDrawColor(r,
-					255, 0, 0,
-				        255);		       
+			SDL_SetRenderDrawColor(r, 255, 0, 0, 255);		       
 		}
 	}
 	else {
     		if(darkMode) {
-			SDL_SetRenderDrawColor(r,
-					255, 0, 255,
-					255);
+			SDL_SetRenderDrawColor(r, 255, 0, 255, 255);
 		} else { 
-			SDL_SetRenderDrawColor(r,
-					0, 255, 0,
-					255);
+			SDL_SetRenderDrawColor(r, 0, 255, 0, 255);
 		}			
 	}
 	
