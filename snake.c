@@ -25,7 +25,7 @@ int main(int argc, char **argv) {
 		int y;
 	};
 
-	struct point snakeBody[500];
+	struct point snakeBody[400];
 	
 	// Snake Head X and Y
 	int playerX = 0,
