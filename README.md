@@ -1,7 +1,7 @@
 # Random projects and code for me to store
 
 ### (Almost) Working chip8 emulator
-A chip8 emulator that I stopped working on after about a day and a half. Might continue more later.
+A chip8 emulator that I stopped working on after about a day and a half.
 
 Used this as a way to learn some more parsing techniques, not really as a full project.
 
