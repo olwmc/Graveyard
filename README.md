@@ -6,9 +6,7 @@ A chip8 emulator that I stopped working on after about a day and a half.
 Used this as a way to learn some more parsing techniques, not really as a full project.
 
 ### Snake written in C and SDL
-This is my first time using SDL, so hopefully I'll look back on it later and realize how terrible it is.
-
-This is also one of my first programs in C in a long time. 
+This was my first time using SDL, so hopefully I'll look back on it later and realize how terrible it is.
 
 -d (or pressing d in game) activates dark mode
 
