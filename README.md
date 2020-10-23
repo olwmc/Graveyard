@@ -1,9 +1,7 @@
 # Random projects and code for me to store
 
 ### (Almost) Working chip8 emulator
-A chip8 emulator that I stopped working on after about a day and a half.
-
-Used this as a way to learn some more parsing techniques, not really as a full project.
+A chip8 emulator. Used this as a way to learn some more parsing techniques, not really as a full project.
 
 ### Snake written in C and SDL
 This was my first time using SDL, so hopefully I'll look back on it later and realize how terrible it is.
