@@ -47,7 +47,6 @@ void Chip8::startUp() {
 void Chip8::emu_cycle(SDL_Renderer *r) {
     // eat opcode
     // draw new screen
-    // STRUCT THIS BITCH 
     // opcode = (memory[pc] << 8) | memory[pc 
     opcode = memory[pc] << 8 | memory[pc + 1];
 
